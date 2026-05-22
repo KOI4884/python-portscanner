@@ -58,3 +58,9 @@ Tempo total gasto:        0.38 segundos
 Deseja salvar o resultado em um arquivo .txt? (S/N): S
 [*] Resultados salvos com sucesso no arquivo 'scan_127_0_0_1.txt'!
 ```
+# 👨‍💻 Criadores
+
+Este projeto foi desenvolvido em conjunto por:
+
+* **João Gustavo** - [GitHub Profile](https://github.com/KOI4884)
+* **Naftali da Costa** - [GitHub Profile](https://github.com/NaftalidaCosta)
